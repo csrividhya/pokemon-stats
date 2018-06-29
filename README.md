@@ -34,11 +34,14 @@ If you've all the prerequisites installed, you can easily open the notebook by j
 $ jupyter notebook
 ```
 
-## Authors
+## Author
 
 * **Srividhya Chandrasekharan** - Website - https://csrividhya.github.io/
 
 ## Acknowledgments
 
 * Hat tip to the data set creator and the documentation writers.
+
+![alt text](/home/sri/Desktop/cool_shiz/pokemon/final/pokemon.png "Description goes here")
+
 
