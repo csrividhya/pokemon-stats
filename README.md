@@ -1,6 +1,6 @@
 # pokemon-stats
 
-This is a fun project that shows how Exploratory Data Analysis can be done with Pokemon data.
+This is a fun project that shows how Exploratory Data Analysis can be done with Pokemon data. Do checkout the infographic attached in this repo.
 
 ## Getting Started
 
@@ -41,7 +41,5 @@ $ jupyter notebook
 ## Acknowledgments
 
 * Hat tip to the data set creator and the documentation writers.
-
-![alt text](/home/sri/Desktop/cool_shiz/pokemon/final/pokemon.png "Description goes here")
 
 
